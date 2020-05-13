@@ -1,4 +1,5 @@
---- title: "Reproducible and Collaborative Practices"
+--- 
+title: "Reproducible and Collaborative Practices"
 subtitle: "Tutorial 7"
 author: "Your Name"
 institute: "Department of Econometrics and Business Statistics"
