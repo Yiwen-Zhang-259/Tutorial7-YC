@@ -21,3 +21,7 @@ header-includes:
 ---
 
 # New section
+```{r}
+
+```
+--- 
